@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> My First Webpage</title>
+</head>
+<body>
+<h3> Links</h3>
+<a href="https://www.codingal.com/student/dashboard/" target="_blank">codingal</a>
+<h2>Lists</h2>
+<H4>Unordered Lists </H4>
+<ul>
+    <li>Sunglasses</li>
+    <li>Passportt</li>
+    <li>Purse</li>
+    <li>sunscreen</li>
+    <Li>cats[recommended for cat lovers]</Li>
+
+</ul>
+<H4>ordered Lists </H4>
+<ol type="i">
+    <li>Sunglasses</li>
+    <li>Passportt</li>
+    <li>Purse</li>
+    <li>sunscreen</li>
+    <Li>cats[recommended for cat lovers]</Li>
+    <H1>Table</H1>
+    <table border="10">
+<tr>
+    <th>Name</th>
+    <th>Gender</th>
+</tr>
+<tr>
+  <td>Yuvin</td>
+  <td>male</td>
+</tr>
+<tr>
+    <td>Darcy</td>
+    <td>female</td>
+    </tr>
+    </table> 
+    
+
+</ol>
+</body>
+</html>
+          
