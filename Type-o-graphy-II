@@ -1,0 +1,64 @@
+<html>
+        <head>
+            <title>New Zealand trip adviser</title>
+    <meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Bootstrap demo</title>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js"
+    integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+    crossorigin="anonymous"></script>
+
+
+<style>
+p{
+    font-size:15px;
+    font-family: cursive;
+}
+
+body{
+
+    background-image:linear-gradient(red,silver); 
+}
+
+</style>
+</head>
+
+
+<body>
+<h1 class="display-1">NZ [aka New Zealand]</h1>
+<p>Hi guys!!, today I am going to tell you about Aotearoa. [In case you are wondering! Aotearoa is nz maori name!]<p>
+    <br>
+    <h1 class="display-3">National colors:
+        <br>
+        <p>The national colors of NZ are black,silver[or white],red. They are also the colors of the maori flag!!</p></h1>
+    <br>
+
+    <h1 class="display-3">Animals:
+        <br>
+        <p>NZ is knowen for it's kiwi,keruru,tui,piwakawaka,kea and huia.</p>
+    </h1>
+ <br>
+
+<h1 class="display-4">City's and capital:
+    <br>
+    <p>New Zealand's largest city is Auckland, while its capital city is Wellington. Auckland is the most populous urban area in the country, and Wellington is the seat of government!!</p>
+    <br>
+
+    <h1 class="display-3">Flights:
+        <br>
+        <p>There is Air New Zealand and maybe jetstar to, but you can book a flight, a rental car and a hotel all at the same time with a website!! Here are the names: Webjet,Expedia or Kayak</p>
+
+
+
+        <h1 class="display-3">OK, that's it for this session, BYE!!!</h1>
+    <br>
+
+</h1>
+</body>
+ </html>
