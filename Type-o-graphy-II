@@ -57,12 +57,28 @@ mark{
     <h1 class="display-3">Flights:
         <br>
         <p>There is <mark>Air New Zealand and maybe Jetstar to</mark>, but you can book a flight, a rental car and a hotel all at the same time with a website!! Here are the names: Webjet,Expedia or Kayak</p>
-
-
-
-        <h1 class="display-3">OK, that's it for this session, BYE!!!</h1>
     <br>
+    <h1 class="display-3">Schools:</H1>
 
+    <blockquote class="blockquote">
+        <p>The schools suggest are Kainagaroa and Auckland school</p>
+    <footer class="blockquote-footer">From Yuvin</footer>
+    </blockquote>
 </h1>
+
+<h1 class="display-3">Online class:</h1>
+<p>The classes I reccomend are:</p>
+<pre>
+
+1) Codingal
+
+2) Bhanzu
+
+3) Scratch pad
+</pre>
+
+<br>
+
+<h1 class="display-3">OK, that's it for this session, BYE!!!</h1>
 </body>
  </html>
