@@ -1,0 +1,31 @@
+</html>
+<head>
+<style>
+    body{
+        background-image:linear-gradient(to right,red,orange,yellow,lime,rgb(39, 39, 237),purple);
+
+        text-align: center;
+        text-decoration: underline;
+        font-size: large;
+    }
+
+
+
+</style>
+</head>
+<body>
+    <h2>Things that I like.</h2>
+    <p id="cat"></p>
+    <script>
+        var fav = ["Train", "Cat", "Dog", "Tesla", "Ford Ranger 2019", "My Parents" , "School"];
+        var text = "";
+        var i;
+        for  (i = 0; i < fav.length; i++) {
+            text += fav[i] + "<br>";
+        }
+
+  document.getElementById("cat").innerHTML = text;
+    </script>
+</body>
+
+</html>
