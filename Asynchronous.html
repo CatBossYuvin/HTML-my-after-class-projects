@@ -1,0 +1,42 @@
+<html>
+    <head>
+        <title>
+            Asynchronous.
+        </title>
+        <style>
+            body{
+                 background-image:linear-gradient(to right,red,orange,yellow,lime,blue,purple)
+                }
+
+            p {
+                    font-family: cursive;
+                    font-size: 18px;
+            }
+
+        #sri{
+     font-size:8em;
+    }
+        </style>
+    </head>
+    <body>
+        <h1>Javascript async / await</h2>
+            <br>
+            <p>49+1</p>
+            <br>
+        <h2 id="result"></h2>
+
+        <H1 id="sri">😁</H1>
+        <script>
+            async function add(s,e) {
+          let response = await s+e;
+          display(response);
+         }
+
+         function display(some) {
+            document.getElementById("result").innerHTML = some;
+         }
+
+         add(49,1)
+        </script>
+    </body>
+</html>
