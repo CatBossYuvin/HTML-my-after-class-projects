@@ -1,0 +1,38 @@
+<html>
+
+<head>
+    <title>Breif on javascript 2</title>
+</head>
+
+<body>
+    <h2>javascript class</h2>
+
+    <p id="student1">
+    <p id="student2">
+        <script>
+            class student {
+                constructor(name, year) {
+                    this.name = name;
+                    this.Year = year;
+                }
+
+
+                age() {
+                    let date = new Date();
+                    return date.getFullYear() - this.year;
+                }
+            }
+
+            student1 = new student = ("randy", 2019);
+            document.getElementById("student1").innerHTML =
+                "My name is" + student1.name + " .I Was Born In " + student1.Year + " .My age is" + student1.age();
+
+            student2 = new student("Yuvin", 2016);
+            document.getElementById("student1").innerHTML =
+                "My name is " + student2.name + ". I born in " + student2.year + ". And my age is " + student1.age();
+        </script>
+</body>
+
+</html>
+
+<!--i did my best-->
